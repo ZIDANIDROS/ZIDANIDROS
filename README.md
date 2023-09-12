@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [https://www.udemy.com/](https://www.udemy.com/)
 
+- Study in Univ Pancasila
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zidan-idros-0b97aa238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zidan-idros-0b97aa238/" height="30" width="40" /></a>
