@@ -84,29 +84,22 @@ Swift: <a href="https://developer.apple.com/swift/" target="_blank" rel="norefer
 
 <h3 align="left">Testing :</h3>
 <p>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://testing-library.com" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://testing-library.com" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://testing-library.com" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40"/> </a>
+ <img src="https://upload.wikimedia.org/wikipedia/en/f/fb/Cypress_Semiconductor_logo.svg" alt="laravel" width="40" height="40"/>
 </p>
 
 <h3 align="left">Softwere :</h3>
 <p><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">Static Site Generators :</h3>
-<p>
+ <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="laravel" width="40" height="40"/>
+ <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="laravel" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="laravel" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="laravel" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="laravel" width="40" height="40"/>
 </p>
 
 <h3 align="left">Others :</h3>
 <p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="laravel" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="laravel" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="laravel" width="40" height="40"/>
 </p>
 
