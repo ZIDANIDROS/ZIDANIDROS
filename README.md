@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm ZIDAN IDROS</h1>
+<h1 align="center">Hi I'm ZIDAN IDROS<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></h1>
+<a href ="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
 <h3 align="center">A passionate FULLSTACK ENGINEER from INDONESIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
