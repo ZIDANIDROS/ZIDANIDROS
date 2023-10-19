@@ -106,3 +106,10 @@ Swift: <a href="https://developer.apple.com/swift/" target="_blank" rel="norefer
  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="laravel" width="40" height="40"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zidanidros&show_icons=true&locale=en&layout=compact" alt="zidanidros" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zidanidros&show_icons=true&locale=en" alt="zidanidros" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidanidros&" alt="zidanidros" /></p>
+
+
