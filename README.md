@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/zidanidros"><img src="https://api.daily.dev/devcards/95e80f7f11254a0c97fa1782f7756dcf.png?r=gcq" width="400" alt="HUSEIN ZIDAN's Dev Card"/></a>
+
 
 <h1 align="center">Hi I'm ZIDAN IDROS<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></h1>
 
@@ -7,7 +9,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<a align="right" href="https://app.daily.dev/zidanidros"><img src="https://api.daily.dev/devcards/95e80f7f11254a0c97fa1782f7756dcf.png?r=gcq" width="400" alt="HUSEIN ZIDAN's Dev Card"/></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
 
