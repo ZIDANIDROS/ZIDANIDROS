@@ -9,7 +9,7 @@
 
 <a href="https://app.daily.dev/zidanidros"><img src="https://api.daily.dev/devcards/95e80f7f11254a0c97fa1782f7756dcf.png?r=gcq" width="400" alt="HUSEIN ZIDAN's Dev Card"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
 
 - 🌱 I’m currently learning **Fullstack Laravel**
 
