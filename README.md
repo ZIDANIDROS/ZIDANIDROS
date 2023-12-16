@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm ZIDAN IDROS<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></h1>
+<h1 align="center">Hi I'm HUSEIN ZIDAN ALAYDRUS<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=4000&pause=1000&color=0003F7&center=true&vCenter=true&width=500&lines=Fullstack+Development;Always+learning;Softwere+Engineers" alt="Typing SVG" /></a>
