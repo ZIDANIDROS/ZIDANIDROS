@@ -81,7 +81,6 @@ Swift: <a href="https://developer.apple.com/swift/" target="_blank" rel="norefer
 
 <h3 align="left">Softwere :</h3>
 <p><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="laravel" width="40" height="40"/>
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="laravel" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="laravel" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="laravel" width="40" height="40"/>
