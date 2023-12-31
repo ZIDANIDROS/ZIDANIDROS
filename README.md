@@ -84,7 +84,6 @@ Swift: <a href="https://developer.apple.com/swift/" target="_blank" rel="norefer
  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="laravel" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="laravel" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="laravel" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="laravel" width="40" height="40"/>
 </p>
 
 <h3 align="left">Others :</h3>
