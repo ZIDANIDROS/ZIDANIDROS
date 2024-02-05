@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=4000&pause=1000&color=0003F7&center=true&vCenter=true&width=500&lines=Fullstack+Development;Always+learning;Softwere+Engineers" alt="Typing SVG" /></a>
 </div>
-<img align="right" src="https://api.daily.dev/devcards/95e80f7f11254a0c97fa1782f7756dcf.png?r=gcq" width="400" alt="HUSEIN ZIDAN's Dev Card"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
 
