@@ -92,7 +92,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZIDANIDROS&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api?username=ZIDANIDROS&show_icons=true&count_private=true&theme=dracula&include_all_commits=true&custom_title=Gare's%20Stats" alt="GitHub Stats">
+ 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIDANIDROS&langs_count=8&layout=compact&theme=dracula&hide=Jupyter%20Notebook&custom_title=Gare's%20most%20used%20languages" alt="GitHub Stats Language">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZIDANIDROS&theme=dracula&hide_border=false" alt="GitHub Stats streak">
 <p>
