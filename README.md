@@ -92,7 +92,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZIDANIDROS&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href=https://github.com/ashutosh00710/github-readme-activity-graph><img src = https://github-readme-activity-graph.vercel.app/graph?username=ZIDANIDROS&theme=xcode></a>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ZIDANIDROS&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ZIDANIDROS&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
