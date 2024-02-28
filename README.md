@@ -93,6 +93,6 @@
   <br/>
 </div>
 <a href=https://github.com/anuraghazra/github-readme-stats>
-<img src = https://github-readme-stats.vercel.app/api/wakatime?ZIDANIDROS=ffflabs></img>
+<img src = https://github-readme-stats.vercel.app/api/ZIDANIDROS=ffflabs></img>
 </a>
 
