@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fullstack Laravel** & **Machine Learning Development**
 
-- 💬 Ask me about **Logic**
+
 
 - 📫 How to reach me **zidan.idros14@gmail.com**
 
