@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zidan.idros14@gmail.com**
 
-- 👨‍💻 Study in Pancasila universit
+- 👨‍💻 Study in Pancasila universi
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
