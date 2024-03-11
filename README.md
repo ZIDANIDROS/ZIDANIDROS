@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Laravel** & **Machine Learning Development**
+
 
 - 💬 Ask me about **Logic**
 
