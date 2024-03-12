@@ -1,9 +1,4 @@
-<h1 align="center"><b>HELLO WORLD</b><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px">    i'm</h1>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=ARIAL&size=35&pause=1000&color=3BB9F7&random=false&width=400&height=100&lines=HUSEIN+ZIDAN+ALAYDRUS" alt="Typing SVG" /></a>
-</div>
-
+<h1 align="center"><b>HELLO WORLD</b><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
 
