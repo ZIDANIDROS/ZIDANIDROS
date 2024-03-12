@@ -1,4 +1,4 @@
-<h1 align="center"><b>HELLO WORLD</b><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px">
+<h1 align="center"><b>HELLO WORLD</b><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanidros&label=Profile%20views&color=0e75b6&style=flat" alt="zidanidros" /> </p>
 
